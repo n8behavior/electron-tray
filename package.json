@@ -1,0 +1,14 @@
+{
+  "name": "electron-tray",
+  "version": "0.1.0",
+  "description": "System tray app using Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n8behavior",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.6"
+  }
+}
